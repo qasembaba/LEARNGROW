@@ -10,7 +10,7 @@ namespace LEARNGROW
             int count = 10;
             float totalPrice = 10.25f;
             char character = 'B';
-            string firstName = "Mosh";
+            string firstName = "Qababa";
             bool isWorking = true; 
 
             Console.WriteLine(number);
