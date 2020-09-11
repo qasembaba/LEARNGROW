@@ -6,12 +6,12 @@ namespace LEARNGROW
     { 
         static void Main (string []arg)
         {
-            byte number =2 ;
-            int count = 10;
-            float totalPrice = 10.25f;
-            char character = 'B';
-            string firstName = "Qababa";
-            bool isWorking = true; 
+            var  number =2 ;
+            var  count = 10;
+            var  totalPrice = 10.25f;
+            var  character = 'B';
+            var  firstName = "Qababa";
+            var  isWorking = true; 
 
             Console.WriteLine(number);
             Console.WriteLine(count);
